@@ -103,7 +103,7 @@ int showGameOverDialog(SDL_Renderer* renderer, int score, int totalScore) {
         SDL_RenderCopy(renderer, titleTex, NULL, &titleRect);
         if (scoreTex) SDL_RenderCopy(renderer, scoreTex, NULL, &scoreRect);
         if (!win && totalTex != nullptr)
-            SDL_RenderCopy(renderer, totalTex, NULL, &totalRect);
+        SDL_RenderCopy(renderer, totalTex, NULL, &totalRect);
         SDL_RenderCopy(renderer, playTex, NULL, &playRect);
         SDL_RenderCopy(renderer, quitTex, NULL, &quitRect);
         SDL_RenderPresent(renderer);
