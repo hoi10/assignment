@@ -1,0 +1,1 @@
+g++ -std=c++11 -o game main.cpp game.cpp menu.cpp over.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer && ./game
