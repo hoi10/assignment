@@ -14,3 +14,4 @@ Trò chơi mang phong cách dễ thương, thích hợp để luyện tập kỹ
 ![Giao diện mở đầu](/screenshots/start.png)
 ![Gameplay](/screenshots/gameplay.png)
 ![Thông báo khi thua](/screenshots/over.png)
+![Thông báo khi qua màn](/screenshots/win.png)
