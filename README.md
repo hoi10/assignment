@@ -11,4 +11,6 @@ Trò chơi mang phong cách dễ thương, thích hợp để luyện tập kỹ
 - 🖼️ Tài nguyên: tham khảo từ nhiều nguồn
 
 ## 🚀 Hình ảnh game
-![Giao diện mở đầu]()
+![Giao diện mở đầu](/screenshots/start)
+![Gameplay](/screenshots/gameplay)
+![Thông báo khi thua](/screenshots/over)
